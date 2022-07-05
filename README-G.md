@@ -73,7 +73,6 @@ Projet à finir avant le mardi 28 juin 2022
 
 # Others
 
-<h1 align="center">Awesome GitHub Profile README 
 <a href="https://github.com/GABSVN/CPT-skills-new" target="_blank"><img src="GDSplug/Logos/GIF/CPTskills-CollectifEthique-Digital-GIF.gif" alt="CPT - skills news - Best curated list of portfolios developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
 <br>
 

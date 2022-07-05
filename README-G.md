@@ -1,6 +1,6 @@
-# Plugin CPT-skills-new 
+# <p align="center">Plugin CPT skills new</p>
 
-<img src="GDSplug/Logos/GIF/CPTskills-CollectifEthique-GIF.gif"></img>
+![Project Image](GDSplug/Logos/GIF/CPTskills-CollectifEthique-GIF.gif)
 
 
 > Ce plugin vous permet d'ajouter un menu dans le dashboard permettant la gestion des compétences
@@ -71,7 +71,7 @@ Projet à finir avant le mardi 28 juin 2022
 
 
 
-# CPT-skills-new
+# Others
 
 <h1 align="center">Awesome GitHub Profile README 
 <a href="https://github.com/GABSVN/CPT-skills-new" target="_blank"><img src="GDSplug/Logos/GIF/CPTskills-CollectifEthique-Digital-GIF.gif" alt="CPT - skills news - Best curated list of portfolios developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>
